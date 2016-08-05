@@ -1,0 +1,13 @@
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\App.g.cs
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\Demo_Wpf_MarkupCompile.cache
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\Demo_Wpf.g.resources
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\Demo_Wpf.Properties.Resources.resources
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\Demo_Wpf.csproj.GenerateResource.Cache
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\bin\Debug\Demo_Wpf.exe
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\bin\Debug\Demo_Wpf.pdb
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\Demo_Wpf.exe
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\Demo_Wpf.pdb
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\frmMain.baml
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\frmMain.g.cs
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\frmOverview.baml
+G:\Learning\OU_PTTKHT\Demo_Wpf\Demo_Wpf\obj\x86\Debug\frmOverview.g.cs
