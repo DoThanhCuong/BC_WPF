@@ -1,0 +1,11 @@
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\bin\Debug\QLBanVeXemPhim.exe.config
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\bin\Debug\QLBanVeXemPhim.exe
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\bin\Debug\QLBanVeXemPhim.pdb
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.frmBase.resources
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.frmMain.resources
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.Properties.Resources.resources
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.csproj.GenerateResource.Cache
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.exe.licenses
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.exe
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.pdb
+G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.frmEmployee.resources
