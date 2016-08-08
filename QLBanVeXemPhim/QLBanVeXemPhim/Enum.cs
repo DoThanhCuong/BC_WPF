@@ -5,12 +5,12 @@ using System.Text;
 
 namespace QLBanVeXemPhim
 {
- public  enum Gender
+    public enum GioiTinh
     {
-         [System.ComponentModel.Description("Nam")] 
-            Male =0, 
+        [System.ComponentModel.Description("Nam")]
+        Male = 0,
 
-         [System.ComponentModel.Description("Nữ")]
-         Female =1   
+        [System.ComponentModel.Description("Nữ")]
+        Female = 1
     }
 }

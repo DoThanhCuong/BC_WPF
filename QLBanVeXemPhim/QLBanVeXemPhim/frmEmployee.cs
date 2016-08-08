@@ -17,8 +17,9 @@ namespace QLBanVeXemPhim
         public frmEmployee()
         {
             InitializeComponent();
-            cmbGioiTinh.Properties.Items.AddEnum(typeof(Gender),true);
-            reComboBox_GioiTinh.Items.AddEnum(typeof(Gender), true);
+
+            cmbGioiTinh.Properties.Items.AddEnum(typeof(GioiTinh), true);
+            reComboBox_GioiTinh.Items.AddEnum(typeof(GioiTinh), true);
         }
 
         private void frmEmployee_Load(object sender, EventArgs e)
@@ -29,6 +30,10 @@ namespace QLBanVeXemPhim
 
         protected override void OnSave()
         {
+            layoutControl1.Validate();
+            // ktra truoc khi save
+            // ...todo ...
+
             var dtChange = this.data.NhanVien.GetChanges() as Data.NhanVienDataTable;
             if (dtChange == null) return;
 
@@ -36,6 +41,8 @@ namespace QLBanVeXemPhim
             {
                 nhanVienTableAdapter.Update(dtChange);
                 XtraMessageBox.Show("Đã lưu thành công");
+
+                data.NhanVien.AcceptChanges();
             }
             catch (Exception ex)
             {
