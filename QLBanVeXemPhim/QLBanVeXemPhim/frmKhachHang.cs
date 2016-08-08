@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace QLBanVeXemPhim
 {
-    public partial class frmKhachHang : Form
+    public partial class frmKhachHang : frmBase
     {
         public frmKhachHang()
         {
