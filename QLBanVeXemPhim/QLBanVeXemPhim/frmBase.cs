@@ -10,9 +10,9 @@ using DevExpress.XtraEditors;
 
 namespace QLBanVeXemPhim
 {
-    public partial class frmBase : DevExpress.XtraEditors.XtraForm
+    public partial class FrmBase : DevExpress.XtraEditors.XtraForm
     {
-        public frmBase()
+        public FrmBase()
         {
             InitializeComponent();
         }
