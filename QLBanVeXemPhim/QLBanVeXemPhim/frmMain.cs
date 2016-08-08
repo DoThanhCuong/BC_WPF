@@ -53,6 +53,20 @@ namespace QLBanVeXemPhim
 
         }
 
+        private void btnKhachHang_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            string fName = "frmKhachHang";
+            Form frmEmp = GetChildFormByName(fName);
+
+            if (frmEmp == null)
+            {
+                frmEmp = new frmKhachHang();
+                frmEmp.Name = fName;
+                frmEmp.MdiParent = this;
+                frmEmp.Show();
+            }
+        }
+
         // 
     }
 }
