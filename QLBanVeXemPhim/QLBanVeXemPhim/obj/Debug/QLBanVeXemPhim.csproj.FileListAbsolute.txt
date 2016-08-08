@@ -10,3 +10,6 @@ G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug
 G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.pdb
 G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.frmEmployee.resources
 G:\Learning\OU_LT CSDL\De tai\DT_QLBanVe\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\Canon\Source\Repos\BC_WPF\QLBanVeXemPhim\QLBanVeXemPhim\bin\Debug\QLBanVeXemPhim.exe.config
+C:\Users\Canon\Source\Repos\BC_WPF\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.exe
+C:\Users\Canon\Source\Repos\BC_WPF\QLBanVeXemPhim\QLBanVeXemPhim\obj\Debug\QLBanVeXemPhim.pdb
