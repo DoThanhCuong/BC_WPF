@@ -7,52 +7,44 @@ using System.Text;
 using System.Linq;
 using System.Windows.Forms;
 using DevExpress.XtraBars;
+using QLBanVeXemPhim.DanhMuc;
 
 namespace QLBanVeXemPhim
 {
-    public partial class frmMain : DevExpress.XtraBars.Ribbon.RibbonForm
+    public partial class FrmMain : DevExpress.XtraBars.Ribbon.RibbonForm
     {
-        public frmMain()
+        public FrmMain()
         {
             InitializeComponent();
         }
-        // Viết lại hàm trả về tên form con khi form đã mở.
+      
 
-        protected Form GetChildFormByName(string frmName)
+
+        void OpenFomr<T>()
         {
-            //Form frm = null;
-            //foreach (Form f in this.MdiChildren)
-            //{
-            //    if(f.Name == frmName)
-            //    {
-            //        frm = f;
-            //        break;
-            //    }
-            //}
-            //return frm;
-
-            // Dùng Linq
-
-            return this.MdiChildren.FirstOrDefault(f=>f.Name==frmName);
+            var f = MdiChildren.FirstOrDefault(i => i is T);
+            if (f == null)
+            {
+                f = Activator.CreateInstance<T>() as Form;
+                f.MdiParent = this;
+                f.Show();
+            }
+            else f.Activate();
         }
 
-        // btn Nhân Viên
+       
 
         private void btnEmployee_ItemClick(object sender, ItemClickEventArgs e)
         {
-            string fName = "frmEmployee";
-            Form frmEmp = GetChildFormByName(fName);
-
-            if (frmEmp == null)
-            {
-                frmEmp = new frmEmployee();
-                frmEmp.Name = fName;
-                frmEmp.MdiParent = this;
-                frmEmp.Show();
-            }
+            OpenFomr<FrmNhanVien>();
 
         }
 
-        // 
+        private void btnKhachHang_ItemClick(object sender, ItemClickEventArgs e)
+        {
+         
+        }
+
+      
     }
 }
