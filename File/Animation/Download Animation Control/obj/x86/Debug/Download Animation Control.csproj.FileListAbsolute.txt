@@ -1,0 +1,17 @@
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\Download Animation Control_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\Download Animation Control.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\Download_Animation_Control.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\bin\Debug\Download Animation Control.exe
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\bin\Debug\Download Animation Control.pdb
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\Download Animation Control.exe
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\Download Animation Control.pdb
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\DownloadAnimation.baml
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\DownloadAnimation.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Download Animation Control\obj\x86\Debug\Download Animation Control_MarkupCompile.lref

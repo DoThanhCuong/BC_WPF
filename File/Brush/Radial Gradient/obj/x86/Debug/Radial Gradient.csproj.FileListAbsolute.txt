@@ -1,0 +1,13 @@
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\bin\Debug\Radial Gradient.exe
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\bin\Debug\Radial Gradient.pdb
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\Radial Gradient_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\Radial Gradient.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\Radial_Gradient.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\Radial Gradient.exe
+C:\Users\CUONGDO\Desktop\Animation\Radial Gradient\obj\x86\Debug\Radial Gradient.pdb

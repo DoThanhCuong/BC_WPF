@@ -1,0 +1,13 @@
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\Animation Revisited_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\Animation Revisited.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\Animation_Revisited.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\bin\Debug\Animation Revisited.exe
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\bin\Debug\Animation Revisited.pdb
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\Animation Revisited.exe
+C:\Users\CUONGDO\Desktop\Animation\Animation Revisited\obj\x86\Debug\Animation Revisited.pdb

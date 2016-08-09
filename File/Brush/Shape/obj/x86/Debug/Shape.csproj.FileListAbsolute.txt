@@ -1,0 +1,13 @@
+C:\Users\CUONGDO\Desktop\Animation\Shape\bin\Debug\Shape.exe
+C:\Users\CUONGDO\Desktop\Animation\Shape\bin\Debug\Shape.pdb
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\Shape_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\Shape.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\Shape.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\Shape.exe
+C:\Users\CUONGDO\Desktop\Animation\Shape\obj\x86\Debug\Shape.pdb

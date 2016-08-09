@@ -1,0 +1,13 @@
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\bin\Debug\Solid Color.exe
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\bin\Debug\Solid Color.pdb
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\Solid Color_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\Solid Color.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\Solid_Color.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\Solid Color.exe
+C:\Users\CUONGDO\Desktop\Animation\Solid Color\obj\x86\Debug\Solid Color.pdb

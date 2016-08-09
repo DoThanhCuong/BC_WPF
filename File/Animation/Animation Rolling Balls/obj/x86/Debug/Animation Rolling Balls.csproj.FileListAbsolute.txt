@@ -1,0 +1,13 @@
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\bin\Debug\Animation Rolling Balls.exe
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\bin\Debug\Animation Rolling Balls.pdb
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\Animation Rolling Balls_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\Animation Rolling Balls.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\Animation_Rolling_Balls.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\Animation Rolling Balls.exe
+C:\Users\CUONGDO\Desktop\Animation\Animation Rolling Balls\obj\x86\Debug\Animation Rolling Balls.pdb

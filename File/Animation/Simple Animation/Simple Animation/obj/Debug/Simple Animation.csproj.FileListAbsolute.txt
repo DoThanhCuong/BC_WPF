@@ -1,0 +1,13 @@
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\bin\Debug\Simple Animation.exe
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\bin\Debug\Simple Animation.pdb
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\Window1.baml
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\Window1.g.cs
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\Simple Animation_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\Simple Animation.g.resources
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\ResGen.read.1.tlog
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\ResGen.write.1.tlog
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\Simple Animation.exe
+C:\Users\CUONGDO\Desktop\Web\Thay Hung\Simple Animation\Simple Animation\obj\Debug\Simple Animation.pdb

@@ -1,0 +1,13 @@
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\bin\Debug\Linear Gradient Color.exe
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\bin\Debug\Linear Gradient Color.pdb
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\Linear Gradient Color_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\Linear Gradient Color.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\Linear_Gradient_Color.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\Linear Gradient Color.exe
+C:\Users\CUONGDO\Desktop\Animation\Linear Gradient Color\obj\x86\Debug\Linear Gradient Color.pdb

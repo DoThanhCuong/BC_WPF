@@ -1,0 +1,24 @@
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\Animation Overview_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\Animation Overview.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\Animation_Overview.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\bin\Debug\Animation Overview.exe
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\bin\Debug\Animation Overview.pdb
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\Animation Overview.exe
+C:\Users\CUONGDO\Desktop\Animation\Animation Overview\obj\x86\Debug\Animation Overview.pdb
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\Animation Overview.exe
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\Animation Overview.pdb
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\bin\Debug\Animation Overview.exe
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\bin\Debug\Animation Overview.pdb
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\MainWindow.baml
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\MainWindow.g.cs
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\App.g.cs
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\Animation Overview_MarkupCompile.cache
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\Animation Overview.g.resources
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\Animation_Overview.Properties.Resources.resources
+g:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Animation Overview\obj\x86\Debug\Animation Overview.csproj.GenerateResource.Cache

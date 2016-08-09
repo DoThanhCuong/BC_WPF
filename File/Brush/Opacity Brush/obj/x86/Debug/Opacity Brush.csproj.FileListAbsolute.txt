@@ -1,0 +1,13 @@
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\bin\Debug\Opacity Brush.exe
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\bin\Debug\Opacity Brush.pdb
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\Opacity Brush_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\Opacity Brush.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\Opacity_Brush.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\Opacity Brush.exe
+C:\Users\CUONGDO\Desktop\Animation\Opacity Brush\obj\x86\Debug\Opacity Brush.pdb

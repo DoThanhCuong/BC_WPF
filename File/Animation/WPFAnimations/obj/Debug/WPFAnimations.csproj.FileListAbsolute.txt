@@ -1,0 +1,15 @@
+C:\Users\CUONGDO\Desktop\Animation\WPFAnimations\obj\Debug\WPFAnimations.exe
+C:\Users\CUONGDO\Desktop\Animation\WPFAnimations\obj\Debug\WPFAnimations.pdb
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\WPFAnimations.exe
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\WPFAnimations.pdb
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\bin\Debug\WPFAnimations.exe
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\bin\Debug\WPFAnimations.pdb
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\ResolveAssemblyReference.cache
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\Window1.baml
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\Window1.g.cs
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\App.g.cs
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\WPFAnimations_MarkupCompile.cache
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\WPFAnimations.g.resources
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\WPFAnimations.Properties.Resources.resources
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\ResGen.read.1.tlog
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Animation\WPFAnimations\obj\Debug\ResGen.write.1.tlog

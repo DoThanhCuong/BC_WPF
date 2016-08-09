@@ -1,0 +1,26 @@
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\bin\Debug\ImageBitmap.exe
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\bin\Debug\ImageBitmap.pdb
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\ImageBitmap_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\ImageBitmap.g.resources
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\ImageBitmap.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\ImageBitmap.exe
+C:\Users\CUONGDO\Desktop\Animation\ImageBitmap\obj\x86\Debug\ImageBitmap.pdb
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\ImageBitmap.exe
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\ImageBitmap.pdb
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\bin\Debug\ImageBitmap.exe
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\bin\Debug\ImageBitmap.pdb
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\MainWindow.baml
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\MainWindow.g.cs
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\App.g.cs
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\ImageBitmap_MarkupCompile.cache
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\ImageBitmap.g.resources
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\ImageBitmap.Properties.Resources.resources
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Hoc Tap\CDTH8LT\21. Do An Hoc Phan\Bao cao\Demo Animation\Brush\ImageBitmap\obj\x86\Debug\GenerateResource.write.1.tlog

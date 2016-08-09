@@ -1,0 +1,15 @@
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\bin\Debug\Per-Frame Animation.exe
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\bin\Debug\Per-Frame Animation.pdb
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\MainWindow.baml
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\App.g.cs
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\Per-Frame Animation_MarkupCompile.cache
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\Per-Frame Animation.g.resources
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\Per_Frame_Animation.Properties.Resources.resources
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\Per-Frame Animation.exe
+C:\Users\CUONGDO\Desktop\Animation\Per-Frame Animation\obj\x86\Debug\Per-Frame Animation.pdb
+G:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Per-Frame Animation\obj\x86\Debug\Per-Frame Animation.exe
+G:\Learning\OU_LT CSDL\Demo WPF\Demo WPF Animation\Animation\Per-Frame Animation\obj\x86\Debug\Per-Frame Animation.pdb

@@ -1,0 +1,12 @@
+.\bin\Debug\WPFAnimations.exe
+.\bin\Debug\WPFAnimations.pdb
+obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Brian\My Documents\Visual Studio 2005\Projects\Articles\WPFAnimations\obj\Debug\Window1.baml
+C:\Documents and Settings\Brian\My Documents\Visual Studio 2005\Projects\Articles\WPFAnimations\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Brian\My Documents\Visual Studio 2005\Projects\Articles\WPFAnimations\obj\Debug\App.g.cs
+C:\Documents and Settings\Brian\My Documents\Visual Studio 2005\Projects\Articles\WPFAnimations\obj\Debug\WPFAnimations_MarkupCompile.cache
+obj\Debug\WPFAnimations.g.resources
+obj\Debug\WPFAnimations.Properties.Resources.resources
+obj\Debug\WPFAnimations.csproj.GenerateResource.Cache
+obj\Debug\WPFAnimations.exe
+obj\Debug\WPFAnimations.pdb
