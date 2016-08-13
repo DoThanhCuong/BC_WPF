@@ -1,0 +1,52 @@
+﻿<UserControl x:Class="WPF_Demo.uc_A_Revisited"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="242" d:DesignWidth="366">
+    <UserControl.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+            <Setter Property="RenderTransformOrigin" Value="0.5,0.5"></Setter>
+            <Setter Property="Padding" Value="20,15"></Setter>
+            <Setter Property="Margin" Value="2"></Setter>
+            <Setter Property="RenderTransform">
+                <Setter.Value>
+                    <RotateTransform></RotateTransform>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Button.MouseEnter">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard Name="rotateStoryboardBegin">
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetProperty="RenderTransform.Angle"
+                 To="360" Duration="0:0:0.8" RepeatBehavior="Forever"></DoubleAnimation>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="Button.MouseLeave">
+                    <EventTrigger.Actions>
+                        <!-- <RemoveStoryboard BeginStoryboardName="rotateStoryboardBegin"></RemoveStoryboard> -->
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetProperty="RenderTransform.Angle"
+                                                 Duration="0:0:0.2"></DoubleAnimation>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+        
+    </UserControl.Resources>
+    <StackPanel Margin="5">
+        <Button>One</Button>
+        <Button>Two</Button>
+        <Button>Three</Button>
+        <Button Height="48" Width="122">Four</Button>
+    </StackPanel>
+    
+</UserControl>

@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="WPF_Demo.uc_A_Overview"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="266" d:DesignWidth="578">
+    <Grid>
+        <StackPanel Margin="10">
+            <Rectangle
+                Name="MyRectangle"
+                Width="100" 
+                Height="100"
+                Fill="Blue">
+                <Rectangle.Triggers>
+                    <!-- Animates the rectangle's opacity. -->
+                    <EventTrigger RoutedEvent="Rectangle.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation
+                                    Storyboard.TargetName="MyRectangle" 
+                                    Storyboard.TargetProperty="Opacity"
+                                    From="1.0" To="0.0" Duration="0:0:5" 
+                                    AutoReverse="True" RepeatBehavior="Forever" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Rectangle.Triggers>
+            </Rectangle>
+        </StackPanel>
+    </Grid>
+</UserControl>

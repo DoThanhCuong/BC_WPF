@@ -1,0 +1,17 @@
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\App.g.cs
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\WPF_MDI_MarkupCompile.cache
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\bin\Debug\WPF_MDI.exe
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\bin\Debug\WPF_MDI.pdb
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\bin\Debug\WPF.MDI.dll
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\MainWindow.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\WPF_MDI.g.resources
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\WPF_MDI.Properties.Resources.resources
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\WPF_MDI.csproj.GenerateResource.Cache
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\WPF_MDI.exe
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\WPF_MDI.pdb
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\WPF_MDI.csprojResolveAssemblyReference.cache
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\CompRegistration.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\UserRegistration.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\CompRegistration.g.cs
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_MDI\obj\x86\Debug\UserRegistration.g.cs
