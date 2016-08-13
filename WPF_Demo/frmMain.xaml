@@ -15,6 +15,14 @@
                     <MenuItem Header="Animation Overview" x:Name="mnOverview" Click="mnOverview_Click_1"></MenuItem>
                     <MenuItem Header="Animation Revisited" x:Name="mnRevisited" Click="mnRevisited_Click"></MenuItem>
                     <MenuItem Header="Animation Rolling Balls" x:Name="mnRollingBalls" Click="mnRollingBalls_Click"></MenuItem>
+                    <MenuItem Header="Download Animation" x:Name="mnDownload" Click="mnDownload_Click"></MenuItem>
+                    <MenuItem Header="Dynamic Control" x:Name="mnDynamic" Click="mnDynamic_Click"></MenuItem>
+                    <MenuItem Header="Per Frame Animation" x:Name="mnPer_Frame" Click="mnPer_Frame_Click"></MenuItem>
+                    <MenuItem Header="Point Animation" x:Name="mnPoint" Click="mnPoint_Click"></MenuItem>
+                    <MenuItem Header="Simple Animation" x:Name="mnSimple" Click="mnSimple_Click"></MenuItem>
+                    <MenuItem Header="WPF Animation" x:Name="mnAnimation" Click="mnAnimation_Click"></MenuItem>
+
+                    <!---->
                 </MenuItem>
                 <MenuItem Header="Brush">
                     <MenuItem Header="Image Bitmap" x:Name="mnImgBitmap" Click="mnImgBitmap_Click"></MenuItem>

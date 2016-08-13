@@ -166,5 +166,83 @@ namespace WPF_Demo
                 Content = new uc_B_ImageBitmap()
             });
         }
+
+        private void mnDownload_Click(object sender, RoutedEventArgs e)
+        {
+            MainMdiContainer.Children.Clear();
+            MainMdiContainer.Children.Add(new MdiChild()
+            {
+                Title = "Download Animation",
+                //Height = (System.Windows.SystemParameters.PrimaryScreenHeight - 15),
+                //Width = (System.Windows.SystemParameters.PrimaryScreenWidth - 15),
+                Style = null,
+                Content = new Animation.uc_A_Download()
+            });
+        }
+
+        private void mnDynamic_Click(object sender, RoutedEventArgs e)
+        {
+            MainMdiContainer.Children.Clear();
+            MainMdiContainer.Children.Add(new MdiChild()
+            {
+                Title = "Dynamic Control",
+                //Height = (System.Windows.SystemParameters.PrimaryScreenHeight - 15),
+                //Width = (System.Windows.SystemParameters.PrimaryScreenWidth - 15),
+                //Style = null,
+                Content = new Animation.uc_A_DynamicControl()
+            });
+        }
+
+        private void mnPer_Frame_Click(object sender, RoutedEventArgs e)
+        {
+            MainMdiContainer.Children.Clear();
+            MainMdiContainer.Children.Add(new MdiChild()
+            {
+                Title = "Per Frame Animation",
+                Height = (System.Windows.SystemParameters.PrimaryScreenHeight - 15),
+                Width = (System.Windows.SystemParameters.PrimaryScreenWidth - 15),
+                Style = null,
+                Content = new Animation.uc_A_Per_Frame()
+            });
+        }
+
+        private void mnPoint_Click(object sender, RoutedEventArgs e)
+        {
+            MainMdiContainer.Children.Clear();
+            MainMdiContainer.Children.Add(new MdiChild()
+            {
+                Title = "Point Animation",
+                Height = (System.Windows.SystemParameters.PrimaryScreenHeight - 15),
+                Width = (System.Windows.SystemParameters.PrimaryScreenWidth - 15),
+                Style = null,
+                Content = new Animation.uc_A_Point()
+            });
+        }
+
+        private void mnSimple_Click(object sender, RoutedEventArgs e)
+        {
+            MainMdiContainer.Children.Clear();
+            MainMdiContainer.Children.Add(new MdiChild()
+            {
+                Title = "Simple Animation",
+                Height = (System.Windows.SystemParameters.PrimaryScreenHeight - 15),
+                Width = (System.Windows.SystemParameters.PrimaryScreenWidth - 15),
+                Style = null,
+                Content = new Animation.uc_A_Simple()
+            });
+        }
+
+        private void mnAnimation_Click(object sender, RoutedEventArgs e)
+        {
+            MainMdiContainer.Children.Clear();
+            MainMdiContainer.Children.Add(new MdiChild()
+            {
+                Title = "WPF Animation",
+                Height = (System.Windows.SystemParameters.PrimaryScreenHeight - 15),
+                Width = (System.Windows.SystemParameters.PrimaryScreenWidth - 15),
+                Style = null,
+                Content = new Animation.uc_A_Animations()
+            });
+        }
     }
 }

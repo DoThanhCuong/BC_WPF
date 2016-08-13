@@ -67,3 +67,15 @@ C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\WPF_MDI_Mar
 C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\WPF_MDI.g.resources
 C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\WPF_Demo.Properties.Resources.resources
 C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\WPF_Demo.csproj.GenerateResource.Cache
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Download.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Download.g.cs
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_DynamicControl.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_DynamicControl.g.cs
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Per_Frame.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Per_Frame.g.cs
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Point.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Point.g.cs
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Simple.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Simple.g.cs
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Animations.baml
+C:\Users\cuongdo\Desktop\Demo\WpfApplication1\WPF_Demo\obj\x86\Debug\Animation\uc_A_Animations.g.cs

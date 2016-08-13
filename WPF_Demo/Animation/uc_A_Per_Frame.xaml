@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="WPF_Demo.Animation.uc_A_Per_Frame"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="400">
+    <Grid>
+        <Canvas>
+            <Path Fill="Blue">
+                <Path.Data>
+                    <EllipseGeometry x:Name="ball1" 
+                    Center="30,180" RadiusX="5" RadiusY="5"/>
+                </Path.Data>
+            </Path>
+
+            <Path Fill="Red">
+                <Path.Data>
+                    <EllipseGeometry x:Name="ball2" 
+                    Center="180,30" RadiusX="5" RadiusY="5"/>
+                </Path.Data>
+            </Path>
+
+            <Path Stroke="LightBlue">
+                <Path.Data>
+                    <EllipseGeometry Center="180,180"  
+                    RadiusX="150" RadiusY="75"/>
+                </Path.Data>
+            </Path>
+
+            <Path Stroke="LightCoral">
+
+                <Path.Data>
+                    <EllipseGeometry Center="180,180"  
+                    RadiusX="75" RadiusY="150"/>
+                </Path.Data>
+            </Path>
+        </Canvas>
+    </Grid>
+</UserControl>

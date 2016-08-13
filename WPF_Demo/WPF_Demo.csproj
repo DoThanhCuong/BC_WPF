@@ -58,6 +58,24 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Animation\uc_A_Animations.xaml.cs">
+      <DependentUpon>uc_A_Animations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\uc_A_Download.xaml.cs">
+      <DependentUpon>uc_A_Download.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\uc_A_DynamicControl.xaml.cs">
+      <DependentUpon>uc_A_DynamicControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\uc_A_Per_Frame.xaml.cs">
+      <DependentUpon>uc_A_Per_Frame.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\uc_A_Point.xaml.cs">
+      <DependentUpon>uc_A_Point.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animation\uc_A_Simple.xaml.cs">
+      <DependentUpon>uc_A_Simple.xaml</DependentUpon>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -128,6 +146,30 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Animation\uc_A_Animations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animation\uc_A_Download.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animation\uc_A_DynamicControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animation\uc_A_Per_Frame.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animation\uc_A_Point.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animation\uc_A_Simple.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="frmMain.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -173,9 +215,14 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\Computer.png" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\pinkcherries.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Globe.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
