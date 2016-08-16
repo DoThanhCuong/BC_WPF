@@ -1,0 +1,54 @@
+﻿<Window x:Class="QL_DatVeXemPhim.frmNhanVien"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen"
+        Title="QUẢN LÝ THÔNG TIN NHÂN VIÊN" Height="768" Width="1024">
+    <Grid>
+        <GroupBox Header="Thông tin Nhân Viên" Height="196" HorizontalAlignment="Left" Name="grbNhanVien" VerticalAlignment="Top" Width="1002">
+            <Grid>
+                <Canvas Height="161" HorizontalAlignment="Left" Margin="6,6,0,0" Name="canvas1" VerticalAlignment="Top" Width="130">
+                    <Image Canvas.Left="2" Canvas.Top="0" Height="161" Name="image1" Stretch="Fill" Width="124" />
+                </Canvas>
+                <Label Content="Mã NV" Height="28" HorizontalAlignment="Left" Margin="141,10,0,0" Name="lblMaNV" VerticalAlignment="Top" Width="106" Foreground="#FF3636C8" FontWeight="Bold" FontFamily="Times New Roman" FontSize="14" />
+                <Label Content="Ngày sinh" Height="28" HorizontalAlignment="Left" Margin="141,50,0,0" Name="lblNgaySinh" VerticalAlignment="Top" Width="106" Foreground="#FF3636C8" FontWeight="Bold" FontFamily="Times New Roman" FontSize="14" />
+                <Label Content="Email" Height="28" HorizontalAlignment="Left" Margin="390,50,0,0" Name="lblEmail" VerticalAlignment="Top" Width="106" Foreground="#FF3636C8" FontWeight="Bold" FontFamily="Times New Roman" FontSize="14"/>
+                <Label Content="Địa chỉ" Height="28" HorizontalAlignment="Left" Margin="141,130,0,0" Name="lblDiaChi" VerticalAlignment="Top" Width="106" Foreground="#FF3636C8" FontWeight="Bold" FontFamily="Times New Roman" FontSize="14" />
+                <Label Content="Họ và Tên" Height="28" HorizontalAlignment="Left" Margin="390,10,0,0" Name="lblHovaTen" VerticalAlignment="Top" Width="106" Foreground="#FF3636C8" FontWeight="Bold" FontFamily="Times New Roman" FontSize="14" />
+                <Label Content="Giới tính" Height="28" HorizontalAlignment="Left" Margin="141,90,0,0" Name="lblGioiTinh" VerticalAlignment="Top" Width="106" Foreground="#FF3636C8" FontWeight="Bold" FontFamily="Times New Roman" FontSize="14" />
+                <Label Content="Điện thoại" Height="28" HorizontalAlignment="Left" Margin="390,90,0,0" Name="lblDienThoai" VerticalAlignment="Top" Width="106" Foreground="#FF3636C8" FontWeight="Bold" FontFamily="Times New Roman" FontSize="14" />
+                <TextBox Height="30" HorizontalAlignment="Left" Margin="494,10,0,0" Name="txtHoVaTen" VerticalAlignment="Top" Width="348" Foreground="#FF3636C8" FontWeight="Bold" FontFamily="Times New Roman" FontSize="14" />
+                <TextBox Height="28" HorizontalAlignment="Left" Margin="494,50,0,0" Name="txtEmail" VerticalAlignment="Top" Width="348" />
+                <TextBox Height="28" HorizontalAlignment="Left" Margin="240,10,0,0" Name="txtMaNV" VerticalAlignment="Top" Width="145" />
+                <TextBox Height="28" HorizontalAlignment="Left" Margin="240,130,0,0" Name="txtDiaChi" VerticalAlignment="Top" Width="602" />
+                <TextBox Height="28" HorizontalAlignment="Left" Margin="494,90,0,0" Name="txtDienThoai" VerticalAlignment="Top" Width="348" />
+                <DatePicker Height="28" HorizontalAlignment="Left" Margin="240,50,0,0" Name="dateNgaySinh" VerticalAlignment="Top" Width="145" />
+                <ComboBox Height="28" HorizontalAlignment="Left" Margin="240,90,0,0" Name="cmbGioiTinh" VerticalAlignment="Top" Width="145" />
+                <Button Content="Thêm" Height="23" HorizontalAlignment="Left" Margin="880,11,0,0" Name="btnThem" VerticalAlignment="Top" Width="75" />
+                <Button Content="Sửa" Height="23" HorizontalAlignment="Left" Margin="880,47,0,0" Name="btnSua" VerticalAlignment="Top" Width="75" />
+                <Button Content="Lưu" Height="23" HorizontalAlignment="Left" Margin="880,115,0,0" Name="btnLuu" VerticalAlignment="Top" Width="75" />
+                <Button Content="Xóa" Height="23" HorizontalAlignment="Left" Margin="881,81,0,0" Name="btnXoa" VerticalAlignment="Top" Width="75" />
+                <Button Content="Đóng" Height="23" HorizontalAlignment="Left" Margin="880,144,0,0" Name="btnDong" VerticalAlignment="Top" Width="75" />
+         
+            </Grid>
+        </GroupBox>
+        <ListView Height="234" HorizontalAlignment="Left" Margin="6,196,0,0" Name="lvNhanVien" VerticalAlignment="Top" Width="996" ItemsSource="{Binding}" FontFamily="Times New Roman" FontSize="13" FontWeight="Bold">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Mã NV" Width="100" DisplayMemberBinding="{Binding MaNV}" />
+                    <GridViewColumn Header="Họ và Tên" Width="220" DisplayMemberBinding="{Binding HovaTen}" />
+                    <GridViewColumn Header="Giới tính" Width="60" DisplayMemberBinding="{Binding GioiTinh}" />
+                    <GridViewColumn Header="Ngày Sinh" Width="150" DisplayMemberBinding="{Binding NgaySinh}" />
+                    <GridViewColumn Header="Email" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Mail}" TextDecorations="Underline" Foreground="Blue" Cursor="Hand" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Điện thoại" Width="120" DisplayMemberBinding="{Binding DienThoai}" />
+                    <GridViewColumn Header="Địa chỉ" Width="250" DisplayMemberBinding="{Binding DiaChi}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
