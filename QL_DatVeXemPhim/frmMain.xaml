@@ -1,0 +1,46 @@
+﻿<Window x:Class="QL_DatVeXemPhim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mdi="clr-namespace:WPF.MDI;assembly=WPF.MDI"
+        WindowStartupLocation="CenterScreen"
+        Title="QL_DatVeXemPhim" Height="768" Width="1024">
+    <Grid>
+        <DockPanel>
+            <Menu>
+                <MenuItem Header="Home">
+                    <!--Để danh sách nhóm lên trên trang chính-->
+                </MenuItem>
+                <MenuItem Header="Animation">
+                    <MenuItem Header="User Registration" x:Name="mnUser" Click="mnUser_Click"></MenuItem>
+                    <MenuItem Header="Company Registration" x:Name="mnCompany" Click="mnCompany_Click"></MenuItem>
+                    <MenuItem Header="Nhân Viên" x:Name="mnNhanVien" Click="mnNhanVien_Click"></MenuItem>
+                    <MenuItem Header="Animation Revisited" x:Name="mnRevisited" ></MenuItem>
+                    <MenuItem Header="Animation Rolling Balls" x:Name="mnRollingBalls" ></MenuItem>
+                    <MenuItem Header="Download Animation" x:Name="mnDownload" ></MenuItem>
+                    <MenuItem Header="Dynamic Control" x:Name="mnDynamic" ></MenuItem>
+                    <MenuItem Header="Per Frame Animation" x:Name="mnPer_Frame" ></MenuItem>
+                    <MenuItem Header="Point Animation" x:Name="mnPoint" ></MenuItem>
+                    <MenuItem Header="Simple Animation" x:Name="mnSimple" ></MenuItem>
+                    <MenuItem Header="WPF Animation" x:Name="mnAnimation" ></MenuItem>
+
+                    <!---->
+                </MenuItem>
+                <MenuItem Header="Brush">
+                    <MenuItem Header="Image Bitmap" x:Name="mnImgBitmap" ></MenuItem>
+                    <MenuItem Header="Linear Gradient Color" x:Name="mnLGColor" ></MenuItem>
+                    <MenuItem Header="Opacity Brush" x:Name="mnOpacity" ></MenuItem>
+                    <MenuItem Header="Radial Gradient" x:Name="mnRadGran" ></MenuItem>
+                    <MenuItem Header="Shape" x:Name="mnShape" ></MenuItem>
+                    <MenuItem Header="Solid Color" x:Name="mnSolidColor" ></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Exit">
+                    <MenuItem Header="Exit" x:Name="mnExit"   Click="mnExit_Click"></MenuItem>
+                </MenuItem>
+            </Menu>           
+        </DockPanel>
+        
+        <DockPanel>
+            <mdi:MdiContainer Theme="Aero" DockPanel.Dock="Top" Margin="0 20 0 0" Name="MainMdiContainer" />
+        </DockPanel>
+    </Grid>
+</Window>
