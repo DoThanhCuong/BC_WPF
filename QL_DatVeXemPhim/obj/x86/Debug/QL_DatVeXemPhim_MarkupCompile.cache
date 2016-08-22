@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Canon\Source\Repos\BC_WPF\QL_DatVeXemPhim\obj\x86\Debug\
+C:\Users\cuongdo\Desktop\WPF\QL_DatVeXemPhim\obj\x86\Debug\
 QL_DatVeXemPhim
 none
 false
 DEBUG;TRACE
-C:\Users\Canon\Source\Repos\BC_WPF\QL_DatVeXemPhim\App.xaml
-4910129882
+C:\Users\cuongdo\Desktop\WPF\QL_DatVeXemPhim\App.xaml
+91175945732
 
-9232320716
-141715850468
-frmMain.xaml;frmNhanVien.xaml;uc_CompRegistration.xaml;uc_UserRegistration.xaml;
+15771033628
+161046634928
+frmLogin.xaml;frmMain.xaml;frmNhanVien.xaml;ucLogin.xaml;ucNhanVien.xaml;ucNhanVienTest.xaml;ucRegistration.xaml;uc_CompRegistration.xaml;uc_UserRegistration.xaml;
 
 False
 

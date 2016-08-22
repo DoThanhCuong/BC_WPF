@@ -20,8 +20,8 @@
                     <MenuItem Header="Dynamic Control" x:Name="mnDynamic" ></MenuItem>
                     <MenuItem Header="Per Frame Animation" x:Name="mnPer_Frame" ></MenuItem>
                     <MenuItem Header="Point Animation" x:Name="mnPoint" ></MenuItem>
-                    <MenuItem Header="Simple Animation" x:Name="mnSimple" ></MenuItem>
-                    <MenuItem Header="WPF Animation" x:Name="mnAnimation" ></MenuItem>
+                    <MenuItem Header="Nhan Vien Test" x:Name="mnSimple" Click="mnSimple_Click" ></MenuItem>
+                    <MenuItem Header="WPF Animation" x:Name="mnAnimation" Click="mnAnimation_Click" ></MenuItem>
 
                     <!---->
                 </MenuItem>
@@ -33,8 +33,8 @@
                     <MenuItem Header="Shape" x:Name="mnShape" ></MenuItem>
                     <MenuItem Header="Solid Color" x:Name="mnSolidColor" ></MenuItem>
                 </MenuItem>
-                <MenuItem Header="Exit">
-                    <MenuItem Header="Exit" x:Name="mnExit"   Click="mnExit_Click"></MenuItem>
+                <MenuItem Header="Trợ giúp">
+                    <MenuItem Header="Help" x:Name="mnHelp"   Click="mnHelp_Click"></MenuItem>
                 </MenuItem>
             </Menu>           
         </DockPanel>

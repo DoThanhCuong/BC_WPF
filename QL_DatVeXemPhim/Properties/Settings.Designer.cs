@@ -22,5 +22,16 @@ namespace QL_DatVeXemPhim.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=HAILUA\\SQL2008r2;Initial Catalog=DatVeXemPhim;Persist Security Info=T" +
+            "rue;User ID=sa;Password=barcode")]
+        public string DatVeXemPhimConnectionString {
+            get {
+                return ((string)(this["DatVeXemPhimConnectionString"]));
+            }
+        }
     }
 }
