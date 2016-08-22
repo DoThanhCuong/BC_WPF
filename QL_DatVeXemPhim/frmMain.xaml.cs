@@ -50,15 +50,41 @@ namespace QL_DatVeXemPhim
             });
         }
 
-        private void mnExit_Click(object sender, RoutedEventArgs e)
+        private void mnHelp_Click(object sender, RoutedEventArgs e)
         {
-            Close();
+            MessageBox.Show("Phần này chưa có làm !");
         }
 
         private void mnNhanVien_Click(object sender, RoutedEventArgs e)
         {
             frmNhanVien fNV = new frmNhanVien();
             fNV.Show();
+        }
+
+        private void mnAnimation_Click(object sender, RoutedEventArgs e)
+        {
+            MainMdiContainer.Children.Clear();
+            MainMdiContainer.Children.Add(new MdiChild()
+            {
+                Title = "Thông tin Nhân Viên",
+                Height = 768,
+                Width = 1024,
+                //Style = null,
+                Content = new ucNhanVien()
+            });
+        }
+
+        private void mnSimple_Click(object sender, RoutedEventArgs e)
+        {
+            MainMdiContainer.Children.Clear();
+            MainMdiContainer.Children.Add(new MdiChild()
+            {
+                Title = "Test Nhân Viên",
+                Height = 768,
+                Width = 1024,
+                //Style = null,
+                Content = new ucNhanVienTest()
+            });
         }
     }
 }
