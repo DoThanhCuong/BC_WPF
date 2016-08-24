@@ -46,3 +46,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /QLBanVeXemPhim/QLBanVeXemPhim
+
+#Debug files added by tien
+bin/
+obj/
+Debug/
+Release/
+
+
